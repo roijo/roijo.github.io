@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Ivan.J Roijals
+bio: Brain and Machine scientist
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Career bio under development
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://roIJo.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,28 +34,27 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: https://www.facebook.com/ro.ijo.7
+twitter: https://twitter.com/ijroijals
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.io/roijo
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
-
-authors:
+email: Ivan@rhoIntelligence.com
+authors: Ivan.J RoIJo
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Ivan.J Roijals
+    bio: Brain and Machine scientist.
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
