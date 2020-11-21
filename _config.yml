@@ -52,7 +52,7 @@ github: https://github.io/roijo
 # lanyrd: mylanyrd
 email: Ivan@rhoIntelligence.com
 authors: Ivan.J RoIJo
-  johndoe:
+  #johndoe:
     name: Ivan.J Roijals
     bio: Brain and Machine scientist.
     external-image: false
